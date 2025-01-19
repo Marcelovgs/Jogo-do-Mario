@@ -22,7 +22,3 @@
 - 🚩 Mensagem de "Game Over" quando o Mario colidir.  
 
 ---
-
-## 📂 Estrutura do Projeto
-
-📦 mario-jump-game ├── 📂 images │ ├── mario.gif # Mario correndo │ ├── game-over.png # Mario após o Game Over │ ├── pipe.png # Cano do jogo │ ├── clouds.png # Nuvens do cenário ├── 📂 js │ └── script.js # Lógica do jogo ├── 📂 css │ └── style.css # Estilização do jogo ├── index.html # Estrutura principal do jogo
